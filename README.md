@@ -1,8 +1,10 @@
 <div>
   <h1 align="center">Bem vindo ao meu perfil! 🕷</h1>
-  <div align="center">
-<img src="https://c.tenor.com/b5W6lI1Wq7YAAAAC/jujutsu-kaisen-jujutsu.gif" height="470em">
-</div>
+     <div align="center">
+        <img src="https://c.tenor.com/b5W6lI1Wq7YAAAAC/jujutsu-kaisen-jujutsu.gif" height="470em">
+     </div>
+  
+  ##
 
 - 💿 16 anos
 - 💿 Cursando Desenvolvimentos de Sistemas
