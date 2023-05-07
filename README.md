@@ -3,7 +3,7 @@
   
   
 - 💿 17 anos
-- 💿 Cursando Desenvolvimentos de Sistemas
+- 💿 Cursando Desenvolvimentos de Sistemas - ETEC ZONA LESTE
 - 💿 Advanced English 
 
 ##
@@ -22,8 +22,5 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
-
-##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yTrosky&bg_color=000000&color=ffffff&line=7885a1&point=152e60&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
