@@ -10,8 +10,8 @@
                                           
 <div align="center">
 <a href="https://github.com/yTrosky">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTrosky&layout=compact&langs_count=7&theme=synthwave">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yTrosky&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yTrosky&layout=compact&langs_count=7&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yTrosky&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>
   
   <div style="display: inline_block"><br>
@@ -24,7 +24,6 @@
 </div><br>
 
 ##
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yTrosky&bg_color=000000&color=3c00e0&line=0055ff&point=3e3f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yTrosky&bg_color=000000&color=ffffff&line=7885a1&point=152e60&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
