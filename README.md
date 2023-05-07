@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Bem vindo ao meu perfil! 🕷</h1>
   
-  ##
+  
 
 - 💿 17 anos
 - 💿 Cursando Desenvolvimentos de Sistemas
@@ -26,6 +26,6 @@
 
 ##
 
-![Snake animation](https://github.com/pedrojesus44/pedrojesus44/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yTrosky&bg_color=ffcfe9&color=9e4c98&line=021e55&point=3e3f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
