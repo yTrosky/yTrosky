@@ -6,9 +6,17 @@
 - 💿 Cursando Desenvolvimentos de Sistemas - ETEC ZONA LESTE
 - 💿 Advanced English 
 
-##
+&nbsp;
+&nbsp;
+
+<div  align="center" style="margin-bottom:100px">
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yTrosky&theme=dark&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=yTrosky&show_icons=true&theme=dark&layout=compact" />
+ </div>
 
 ## My Skills
+
+#### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -32,4 +40,6 @@
   <a href = "mailto:thiago.machado2498@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-machado-134a10294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030049&height=120&section=footer"/>
 </div>
