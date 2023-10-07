@@ -7,10 +7,7 @@
 - 💿 Advanced English 
 
 ##
-                                          
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-yTrosky.vercel.app/api/top-langs/?username=yTrosky&show_icons=true&theme=radical&layout=compact" />
- </div>
+                                  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
