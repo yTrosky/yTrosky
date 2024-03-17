@@ -2,10 +2,10 @@
   <h1 align="center">Bem vindo ao meu perfil!</h1>
   
   
-- 💿 17 anos
-- 💿 Cursando Desenvolvimentos de Sistemas - ETEC ZONA LESTE
+- 💿 18 anos
+- 💿 Técnico em Desenvolvimentos de Sistemas - ETEC ZONA LESTE
+- 💿 Cursando Análise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo
 - 💿 Advanced English 
-
 &nbsp;
 &nbsp;
 
