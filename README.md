@@ -1,3 +1,5 @@
+<!-- 
+ANTIGO PROFILE 
 <div>
   <h1 align="center">Bem vindo ao meu perfil!</h1>
   
@@ -9,10 +11,12 @@
 &nbsp;
 &nbsp;
 
+
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=yTrosky&theme=dark&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=yTrosky&show_icons=true&theme=dark&layout=compact" />
- </div>
+</div>
+
 
 ## My Skills
 
@@ -30,7 +34,7 @@
 #### Databases:
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![FireBase](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 ##
@@ -43,3 +47,26 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030049&height=120&section=footer"/>
 </div>
+-->
+
+<h2> Hi, I'm Thiago!</h2>
+<p><em>Systems development technician</br>
+       Graduating in systems analysis and development</br>
+       B2 Upper Intermediate level of English
+</em></p>
+
+### A little more about me...  
+
+```javascript
+const thiago = {
+  pronouns: "he" | "him",
+  code: [Javascript, Php, Html, Css, Kotlin, Python, Java],
+  tools: [ Node, Laravel, Bootstrap, Bulma],
+  database: [MySQL, SQLite, FireBase],
+  studying: "I am currently studying Java Spring Boot"
+}
+```
+
+ <em>Feel free to reach out to me anytime! :)</em>
+
+---
