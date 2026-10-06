@@ -6,7 +6,7 @@ ANTIGO PROFILE
   
 - 💿 18 anos
 - 💿 Técnico em Desenvolvimentos de Sistemas - ETEC ZONA LESTE
-- 💿 Cursando Análise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo
+- 💿 Graduado em Análise e Desenvolvimento de Sistemas - Universidade Cidade de São Paulo
 - 💿 Advanced English 
 &nbsp;
 &nbsp;
@@ -51,7 +51,7 @@ ANTIGO PROFILE
 
 <h2> Hi, I'm Thiago!</h2>
 <p><em>Systems development technician</br>
-       Graduating in systems analysis and development</br>
+       Graduated in systems analysis and development</br>
        B2 Upper Intermediate level of English
 </em></p>
 
